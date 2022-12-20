@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/Osauyi/huddle-landing-page-with-curved-sections-master--27.git]
+- Live Site URL: [https://osauyi.github.io/huddle-landing-page-with-curved-sections-master--27/]
 
 ## My process
 
