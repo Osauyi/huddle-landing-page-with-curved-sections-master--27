@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](Screenshot%202022-12-20%20at%2011-23-25%20Frontend%20Mentor%20Huddle%20landing%20page%20with%20curved%20sections.png)
-![](Screenshot%202022-12-20%20at%2011-23-47%20Frontend%20Mentor%20Huddle%20landing%20page%20with%20curved%20sections.png)
+![](/Screenshot%202022-12-20%20at%2011-58-28%20Frontend%20Mentor%20Huddle%20landing%20page%20with%20curved%20sections.png)
+![](Screenshot%202022-12-20%20at%2011-58-09%20Frontend%20Mentor%20Huddle%20landing%20page%20with%20curved%20sections.png)
 
 ### Links
 
