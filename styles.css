@@ -438,7 +438,7 @@ footer p {
   .grow {
     display: flex;
     background-image: url(images/bg-section-top-desktop-1.svg), url(images/bg-section-bottom-desktop-1.svg);
-    background-position: top, 0px 595px;
+    background-position: 0 20px, 0px 590px;
     background-repeat: no-repeat;
     margin: 0px 0 40px;
     height: 46.875rem;
@@ -518,7 +518,7 @@ footer p {
     display: flex;
     background-image: url(images/bg-footer-top-desktop.svg);
     background-repeat: no-repeat;
-    background-position: 0px 78px;
+    background-position: 0px 80px;
     height: 43.75rem;
     background-size: contain;
   }
